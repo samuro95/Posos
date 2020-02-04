@@ -6,4 +6,6 @@ Given a set of questions about medication problems, predict the sub-domain (cate
 
 Video of the challenge's presentation at Collège de France is available at: https://www.college-de-france.fr/site/stephane-mallat/Challenge-2017-2018-Reponses-a-des-questions-pharmaceutiques-par-Posos.htm.
 
+You can fond the code, a written report and the slides of the oral presentation.
+
 
